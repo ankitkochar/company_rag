@@ -1,0 +1,1127 @@
+[
+  {
+    "company_name": "Webb-Harper",
+    "company_number": "10000000",
+    "company_status": "dissolved",
+    "type": "plc",
+    "date_of_creation": "2014-02-13",
+    "registered_office_address": {
+      "address_line_1": "Studio 39I\nHudson camp",
+      "locality": "Port Samantha",
+      "postal_code": "L6A 4PP",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "82272"
+    ],
+    "jurisdiction": "northern-ireland",
+    "has_been_liquidated": false,
+    "has_charges": true,
+    "has_insolvency_history": false,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2024-03-19",
+      "next_due": "2025-10-18",
+      "next_made_up_to": "2026-04-26",
+      "overdue": true
+    },
+    "accounts": {
+      "next_due": "2025-07-03",
+      "next_accounts": {
+        "period_start_on": "2024-10-04",
+        "period_end_on": "2025-07-02",
+        "due_on": "2027-05-08"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-05-15"
+      },
+      "overdue": false
+    },
+    "officer_summary": {
+      "active_count": 4,
+      "resigned_count": 2
+    },
+    "etag": "008fe6767d2a390651a1cc3300ba9260dd1cb9a2"
+  },
+  {
+    "company_name": "Dennis, Baker and Stokes",
+    "company_number": "10000001",
+    "company_status": "active",
+    "type": "llp",
+    "date_of_creation": "2005-03-04",
+    "registered_office_address": {
+      "address_line_1": "734 Hugh islands",
+      "locality": "Taylorland",
+      "postal_code": "S26 1JX",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "63265"
+    ],
+    "jurisdiction": "scotland",
+    "has_been_liquidated": false,
+    "has_charges": false,
+    "has_insolvency_history": false,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2023-10-17",
+      "next_due": "2025-09-15",
+      "next_made_up_to": "2025-12-20",
+      "overdue": false
+    },
+    "accounts": {
+      "next_due": "2025-12-11",
+      "next_accounts": {
+        "period_start_on": "2025-05-01",
+        "period_end_on": "2025-11-29",
+        "due_on": "2026-12-18"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2024-04-16"
+      },
+      "overdue": true
+    },
+    "officer_summary": {
+      "active_count": 2,
+      "resigned_count": 2
+    },
+    "etag": "15a88dd74fd4da8e48c8e8312a2d3ee565dc0473"
+  },
+  {
+    "company_name": "Watkins, Turner and Davies",
+    "company_number": "10000002",
+    "company_status": "liquidation",
+    "type": "ltd",
+    "date_of_creation": "2017-03-29",
+    "registered_office_address": {
+      "address_line_1": "7 Archer shoals",
+      "locality": "Saraberg",
+      "postal_code": "L98 6NW",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "82368"
+    ],
+    "jurisdiction": "england-wales",
+    "has_been_liquidated": true,
+    "has_charges": true,
+    "has_insolvency_history": false,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2023-05-22",
+      "next_due": "2025-12-21",
+      "next_made_up_to": "2025-09-23",
+      "overdue": false
+    },
+    "accounts": {
+      "next_due": "2025-12-21",
+      "next_accounts": {
+        "period_start_on": "2024-07-29",
+        "period_end_on": "2026-04-09",
+        "due_on": "2026-08-15"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-06-12"
+      },
+      "overdue": false
+    },
+    "officer_summary": {
+      "active_count": 4,
+      "resigned_count": 1
+    },
+    "etag": "5b85a9e67101592a8b97c6b5c71234a2b13d30f3"
+  },
+  {
+    "company_name": "Pickering-Hall",
+    "company_number": "10000003",
+    "company_status": "liquidation",
+    "type": "plc",
+    "date_of_creation": "2016-10-17",
+    "registered_office_address": {
+      "address_line_1": "769 Glen valley",
+      "locality": "West Stephen",
+      "postal_code": "PO7N 9AZ",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "49911"
+    ],
+    "jurisdiction": "scotland",
+    "has_been_liquidated": true,
+    "has_charges": true,
+    "has_insolvency_history": false,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2023-07-14",
+      "next_due": "2025-05-21",
+      "next_made_up_to": "2025-09-27",
+      "overdue": false
+    },
+    "accounts": {
+      "next_due": "2025-07-07",
+      "next_accounts": {
+        "period_start_on": "2025-02-03",
+        "period_end_on": "2025-11-23",
+        "due_on": "2026-12-19"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-07-15"
+      },
+      "overdue": false
+    },
+    "officer_summary": {
+      "active_count": 5,
+      "resigned_count": 2
+    },
+    "etag": "b1a5c6c0af4d7756f1d783dbb58b98ea9ef15abb"
+  },
+  {
+    "company_name": "Riley-Dawson",
+    "company_number": "10000004",
+    "company_status": "dissolved",
+    "type": "plc",
+    "date_of_creation": "1997-01-09",
+    "registered_office_address": {
+      "address_line_1": "Studio 10\nKimberley pike",
+      "locality": "Lake Carole",
+      "postal_code": "G93 8YB",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "76401"
+    ],
+    "jurisdiction": "england-wales",
+    "has_been_liquidated": false,
+    "has_charges": true,
+    "has_insolvency_history": true,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2024-04-24",
+      "next_due": "2025-06-12",
+      "next_made_up_to": "2026-04-09",
+      "overdue": true
+    },
+    "accounts": {
+      "next_due": "2026-01-07",
+      "next_accounts": {
+        "period_start_on": "2024-06-05",
+        "period_end_on": "2025-12-21",
+        "due_on": "2026-10-31"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-09-25"
+      },
+      "overdue": false
+    },
+    "officer_summary": {
+      "active_count": 1,
+      "resigned_count": 1
+    },
+    "etag": "5748cee26442cca332a6a932e6a234b44c245e2f"
+  },
+  {
+    "company_name": "Lees-Waters",
+    "company_number": "10000005",
+    "company_status": "liquidation",
+    "type": "plc",
+    "date_of_creation": "2020-07-20",
+    "registered_office_address": {
+      "address_line_1": "1 Allen centers",
+      "locality": "Atkinsonfort",
+      "postal_code": "N2 3AS",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "72639"
+    ],
+    "jurisdiction": "northern-ireland",
+    "has_been_liquidated": false,
+    "has_charges": false,
+    "has_insolvency_history": true,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2023-11-08",
+      "next_due": "2025-05-15",
+      "next_made_up_to": "2025-11-20",
+      "overdue": false
+    },
+    "accounts": {
+      "next_due": "2026-02-19",
+      "next_accounts": {
+        "period_start_on": "2025-01-02",
+        "period_end_on": "2025-08-23",
+        "due_on": "2027-05-03"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-07-22"
+      },
+      "overdue": false
+    },
+    "officer_summary": {
+      "active_count": 3,
+      "resigned_count": 2
+    },
+    "etag": "f87fa16bae7d0dde62532599fdadfd1797a94efd"
+  },
+  {
+    "company_name": "Rogers, Mason and Phillips",
+    "company_number": "10000006",
+    "company_status": "liquidation",
+    "type": "ltd",
+    "date_of_creation": "2012-09-27",
+    "registered_office_address": {
+      "address_line_1": "98 Humphreys alley",
+      "locality": "West Clarechester",
+      "postal_code": "G7 2GZ",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "85489"
+    ],
+    "jurisdiction": "england-wales",
+    "has_been_liquidated": false,
+    "has_charges": false,
+    "has_insolvency_history": false,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2023-12-29",
+      "next_due": "2025-07-25",
+      "next_made_up_to": "2025-08-15",
+      "overdue": false
+    },
+    "accounts": {
+      "next_due": "2025-11-18",
+      "next_accounts": {
+        "period_start_on": "2024-10-18",
+        "period_end_on": "2026-01-17",
+        "due_on": "2027-02-07"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-11-05"
+      },
+      "overdue": true
+    },
+    "officer_summary": {
+      "active_count": 4,
+      "resigned_count": 1
+    },
+    "etag": "322348dfcf71cb7e9bf36931876d837aa9ae8d3f"
+  },
+  {
+    "company_name": "Parker Ltd",
+    "company_number": "10000007",
+    "company_status": "liquidation",
+    "type": "llp",
+    "date_of_creation": "2009-07-17",
+    "registered_office_address": {
+      "address_line_1": "Flat 42\nNorman way",
+      "locality": "Cookborough",
+      "postal_code": "WN74 8UT",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "85482"
+    ],
+    "jurisdiction": "england-wales",
+    "has_been_liquidated": false,
+    "has_charges": true,
+    "has_insolvency_history": true,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2024-04-25",
+      "next_due": "2025-08-06",
+      "next_made_up_to": "2026-03-22",
+      "overdue": false
+    },
+    "accounts": {
+      "next_due": "2025-11-03",
+      "next_accounts": {
+        "period_start_on": "2024-12-11",
+        "period_end_on": "2026-03-05",
+        "due_on": "2027-04-10"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-07-17"
+      },
+      "overdue": true
+    },
+    "officer_summary": {
+      "active_count": 5,
+      "resigned_count": 1
+    },
+    "etag": "e6b97c84517fc4257101f2d7abd0e16e3c716b89"
+  },
+  {
+    "company_name": "Burns LLC",
+    "company_number": "10000008",
+    "company_status": "active",
+    "type": "llp",
+    "date_of_creation": "2002-12-14",
+    "registered_office_address": {
+      "address_line_1": "Flat 3\nJack knolls",
+      "locality": "Abigailhaven",
+      "postal_code": "NG6A 4WE",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "49187"
+    ],
+    "jurisdiction": "england-wales",
+    "has_been_liquidated": false,
+    "has_charges": true,
+    "has_insolvency_history": false,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2024-04-04",
+      "next_due": "2026-03-28",
+      "next_made_up_to": "2026-03-14",
+      "overdue": true
+    },
+    "accounts": {
+      "next_due": "2025-12-10",
+      "next_accounts": {
+        "period_start_on": "2024-11-29",
+        "period_end_on": "2025-06-29",
+        "due_on": "2026-10-30"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-11-27"
+      },
+      "overdue": true
+    },
+    "officer_summary": {
+      "active_count": 4,
+      "resigned_count": 1
+    },
+    "etag": "0be422d4b416f118291f625046796a9a533c0e77"
+  },
+  {
+    "company_name": "Morton Group",
+    "company_number": "10000009",
+    "company_status": "dissolved",
+    "type": "ltd",
+    "date_of_creation": "2005-01-17",
+    "registered_office_address": {
+      "address_line_1": "Studio 26L\nBird orchard",
+      "locality": "Port Katy",
+      "postal_code": "S2S 9WX",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "59523"
+    ],
+    "jurisdiction": "northern-ireland",
+    "has_been_liquidated": false,
+    "has_charges": true,
+    "has_insolvency_history": true,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2023-09-07",
+      "next_due": "2025-09-20",
+      "next_made_up_to": "2025-06-07",
+      "overdue": false
+    },
+    "accounts": {
+      "next_due": "2026-03-15",
+      "next_accounts": {
+        "period_start_on": "2025-05-04",
+        "period_end_on": "2025-12-23",
+        "due_on": "2026-09-30"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-07-12"
+      },
+      "overdue": true
+    },
+    "officer_summary": {
+      "active_count": 3,
+      "resigned_count": 1
+    },
+    "etag": "c510fa8cf6b0828f614766fd6b119fe23ea1426b"
+  },
+  {
+    "company_name": "Ross-Brookes",
+    "company_number": "10000010",
+    "company_status": "liquidation",
+    "type": "ltd",
+    "date_of_creation": "2009-01-01",
+    "registered_office_address": {
+      "address_line_1": "Studio 97\nClifford flats",
+      "locality": "North Mitchell",
+      "postal_code": "W6W 3GG",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "85185"
+    ],
+    "jurisdiction": "scotland",
+    "has_been_liquidated": true,
+    "has_charges": true,
+    "has_insolvency_history": false,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2024-05-10",
+      "next_due": "2025-05-22",
+      "next_made_up_to": "2026-05-03",
+      "overdue": true
+    },
+    "accounts": {
+      "next_due": "2026-02-28",
+      "next_accounts": {
+        "period_start_on": "2024-12-03",
+        "period_end_on": "2026-02-05",
+        "due_on": "2026-11-09"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2024-01-20"
+      },
+      "overdue": false
+    },
+    "officer_summary": {
+      "active_count": 3,
+      "resigned_count": 3
+    },
+    "etag": "537c23fc34ab9bce9a882d420477a4b3b3e0b4af"
+  },
+  {
+    "company_name": "Rowe, Lynch and McCarthy",
+    "company_number": "10000011",
+    "company_status": "liquidation",
+    "type": "ltd",
+    "date_of_creation": "2005-05-22",
+    "registered_office_address": {
+      "address_line_1": "Studio 9\nBell green",
+      "locality": "Port Alexfort",
+      "postal_code": "N9J 6RP",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "97246"
+    ],
+    "jurisdiction": "northern-ireland",
+    "has_been_liquidated": true,
+    "has_charges": true,
+    "has_insolvency_history": true,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2024-02-15",
+      "next_due": "2025-09-04",
+      "next_made_up_to": "2025-10-26",
+      "overdue": true
+    },
+    "accounts": {
+      "next_due": "2025-09-19",
+      "next_accounts": {
+        "period_start_on": "2024-12-29",
+        "period_end_on": "2025-07-18",
+        "due_on": "2026-08-18"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-08-30"
+      },
+      "overdue": false
+    },
+    "officer_summary": {
+      "active_count": 3,
+      "resigned_count": 1
+    },
+    "etag": "48ed0f6c4b019477511001d1c4189bd85e152e01"
+  },
+  {
+    "company_name": "Jackson-Jackson",
+    "company_number": "10000012",
+    "company_status": "active",
+    "type": "plc",
+    "date_of_creation": "2004-10-11",
+    "registered_office_address": {
+      "address_line_1": "Flat 62z\nTomlinson divide",
+      "locality": "South Nicoleport",
+      "postal_code": "L8 4PG",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "92327"
+    ],
+    "jurisdiction": "northern-ireland",
+    "has_been_liquidated": false,
+    "has_charges": false,
+    "has_insolvency_history": true,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2024-03-27",
+      "next_due": "2026-03-05",
+      "next_made_up_to": "2025-12-01",
+      "overdue": false
+    },
+    "accounts": {
+      "next_due": "2025-11-15",
+      "next_accounts": {
+        "period_start_on": "2025-03-24",
+        "period_end_on": "2026-04-25",
+        "due_on": "2026-11-25"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-11-17"
+      },
+      "overdue": false
+    },
+    "officer_summary": {
+      "active_count": 4,
+      "resigned_count": 1
+    },
+    "etag": "a5fd200435dde6f91f7d7d478ad536ce01aea5ab"
+  },
+  {
+    "company_name": "O'Connor-Williams",
+    "company_number": "10000013",
+    "company_status": "active",
+    "type": "llp",
+    "date_of_creation": "2010-02-12",
+    "registered_office_address": {
+      "address_line_1": "Flat 04R\nMoore fork",
+      "locality": "West Steven",
+      "postal_code": "EH50 6BU",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "68859"
+    ],
+    "jurisdiction": "england-wales",
+    "has_been_liquidated": true,
+    "has_charges": false,
+    "has_insolvency_history": false,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2023-08-19",
+      "next_due": "2025-12-28",
+      "next_made_up_to": "2025-05-25",
+      "overdue": false
+    },
+    "accounts": {
+      "next_due": "2025-06-24",
+      "next_accounts": {
+        "period_start_on": "2024-10-26",
+        "period_end_on": "2026-04-27",
+        "due_on": "2027-01-12"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-09-23"
+      },
+      "overdue": true
+    },
+    "officer_summary": {
+      "active_count": 1,
+      "resigned_count": 1
+    },
+    "etag": "8964b2e183d4aec486cb524c907f343695c2acc3"
+  },
+  {
+    "company_name": "Hill, Brown and Howe",
+    "company_number": "10000014",
+    "company_status": "active",
+    "type": "llp",
+    "date_of_creation": "1997-04-26",
+    "registered_office_address": {
+      "address_line_1": "Flat 51l\nAdam oval",
+      "locality": "West Ryanmouth",
+      "postal_code": "L1 2LR",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "70421"
+    ],
+    "jurisdiction": "scotland",
+    "has_been_liquidated": false,
+    "has_charges": true,
+    "has_insolvency_history": false,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2023-05-15",
+      "next_due": "2026-04-04",
+      "next_made_up_to": "2026-01-18",
+      "overdue": true
+    },
+    "accounts": {
+      "next_due": "2025-09-14",
+      "next_accounts": {
+        "period_start_on": "2024-08-21",
+        "period_end_on": "2025-10-12",
+        "due_on": "2027-02-13"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2024-01-26"
+      },
+      "overdue": false
+    },
+    "officer_summary": {
+      "active_count": 1,
+      "resigned_count": 1
+    },
+    "etag": "c07227007a46736142b78c567b967c69aa19bdc9"
+  },
+  {
+    "company_name": "Walker, Francis and Butler",
+    "company_number": "10000015",
+    "company_status": "active",
+    "type": "ltd",
+    "date_of_creation": "2007-11-26",
+    "registered_office_address": {
+      "address_line_1": "Studio 0\nStephanie prairie",
+      "locality": "Robinsonmouth",
+      "postal_code": "PH56 5FU",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "51001"
+    ],
+    "jurisdiction": "scotland",
+    "has_been_liquidated": false,
+    "has_charges": true,
+    "has_insolvency_history": true,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2023-09-22",
+      "next_due": "2025-12-21",
+      "next_made_up_to": "2025-08-22",
+      "overdue": false
+    },
+    "accounts": {
+      "next_due": "2026-05-13",
+      "next_accounts": {
+        "period_start_on": "2025-01-23",
+        "period_end_on": "2025-07-11",
+        "due_on": "2026-09-11"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-10-29"
+      },
+      "overdue": false
+    },
+    "officer_summary": {
+      "active_count": 5,
+      "resigned_count": 1
+    },
+    "etag": "7f09fcfc5a12b28171f3fbb02ab47c01ec9ee8a0"
+  },
+  {
+    "company_name": "Clayton-Spencer",
+    "company_number": "10000016",
+    "company_status": "active",
+    "type": "llp",
+    "date_of_creation": "2022-11-07",
+    "registered_office_address": {
+      "address_line_1": "572 Hughes crossroad",
+      "locality": "East Charleneville",
+      "postal_code": "DY9R 6GN",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "86969"
+    ],
+    "jurisdiction": "england-wales",
+    "has_been_liquidated": true,
+    "has_charges": true,
+    "has_insolvency_history": true,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2023-09-03",
+      "next_due": "2025-09-08",
+      "next_made_up_to": "2025-07-29",
+      "overdue": false
+    },
+    "accounts": {
+      "next_due": "2025-07-13",
+      "next_accounts": {
+        "period_start_on": "2025-04-16",
+        "period_end_on": "2025-09-22",
+        "due_on": "2027-03-16"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2024-03-21"
+      },
+      "overdue": false
+    },
+    "officer_summary": {
+      "active_count": 1,
+      "resigned_count": 1
+    },
+    "etag": "c14101a3f2c451c42454ff86d120344f678c6cbd"
+  },
+  {
+    "company_name": "Lowe and Sons",
+    "company_number": "10000017",
+    "company_status": "liquidation",
+    "type": "ltd",
+    "date_of_creation": "2007-04-02",
+    "registered_office_address": {
+      "address_line_1": "282 Robinson plains",
+      "locality": "Malcolmmouth",
+      "postal_code": "N43 6ZB",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "89224"
+    ],
+    "jurisdiction": "scotland",
+    "has_been_liquidated": true,
+    "has_charges": false,
+    "has_insolvency_history": true,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2023-09-04",
+      "next_due": "2025-07-12",
+      "next_made_up_to": "2025-06-29",
+      "overdue": false
+    },
+    "accounts": {
+      "next_due": "2026-04-29",
+      "next_accounts": {
+        "period_start_on": "2024-12-11",
+        "period_end_on": "2025-11-19",
+        "due_on": "2026-07-11"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-08-27"
+      },
+      "overdue": true
+    },
+    "officer_summary": {
+      "active_count": 3,
+      "resigned_count": 3
+    },
+    "etag": "cee43a69758c9771bea47cd439f07e9dd3912468"
+  },
+  {
+    "company_name": "Freeman-Young",
+    "company_number": "10000018",
+    "company_status": "liquidation",
+    "type": "plc",
+    "date_of_creation": "2005-09-23",
+    "registered_office_address": {
+      "address_line_1": "Flat 71m\nHall road",
+      "locality": "Leonhaven",
+      "postal_code": "BT3V 4GY",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "78139"
+    ],
+    "jurisdiction": "scotland",
+    "has_been_liquidated": true,
+    "has_charges": false,
+    "has_insolvency_history": false,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2024-02-02",
+      "next_due": "2025-11-07",
+      "next_made_up_to": "2026-01-25",
+      "overdue": true
+    },
+    "accounts": {
+      "next_due": "2026-01-17",
+      "next_accounts": {
+        "period_start_on": "2024-08-12",
+        "period_end_on": "2026-03-27",
+        "due_on": "2026-07-29"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2024-02-02"
+      },
+      "overdue": true
+    },
+    "officer_summary": {
+      "active_count": 2,
+      "resigned_count": 1
+    },
+    "etag": "5b94b4bbd78fb42f1119f0190d22dfe35bd8f8fd"
+  },
+  {
+    "company_name": "Wilson-Cooke",
+    "company_number": "10000019",
+    "company_status": "active",
+    "type": "plc",
+    "date_of_creation": "2019-02-27",
+    "registered_office_address": {
+      "address_line_1": "21 Kelly land",
+      "locality": "Martynhaven",
+      "postal_code": "FY20 4SR",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "99837"
+    ],
+    "jurisdiction": "england-wales",
+    "has_been_liquidated": true,
+    "has_charges": true,
+    "has_insolvency_history": true,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2023-09-21",
+      "next_due": "2025-09-24",
+      "next_made_up_to": "2025-07-10",
+      "overdue": true
+    },
+    "accounts": {
+      "next_due": "2026-05-09",
+      "next_accounts": {
+        "period_start_on": "2024-11-10",
+        "period_end_on": "2026-02-18",
+        "due_on": "2026-08-12"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2024-01-04"
+      },
+      "overdue": true
+    },
+    "officer_summary": {
+      "active_count": 4,
+      "resigned_count": 2
+    },
+    "etag": "378c746abd0a7b5be706a560caca24dd7f2cc644"
+  },
+  {
+    "company_name": "Preston and Sons",
+    "company_number": "10000020",
+    "company_status": "liquidation",
+    "type": "llp",
+    "date_of_creation": "2002-11-13",
+    "registered_office_address": {
+      "address_line_1": "Studio 92\nSally view",
+      "locality": "Lake Sharonville",
+      "postal_code": "L9 7US",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "85591"
+    ],
+    "jurisdiction": "england-wales",
+    "has_been_liquidated": false,
+    "has_charges": true,
+    "has_insolvency_history": true,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2023-07-22",
+      "next_due": "2026-01-26",
+      "next_made_up_to": "2025-09-22",
+      "overdue": true
+    },
+    "accounts": {
+      "next_due": "2025-11-04",
+      "next_accounts": {
+        "period_start_on": "2024-10-28",
+        "period_end_on": "2026-04-06",
+        "due_on": "2026-09-23"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-07-22"
+      },
+      "overdue": false
+    },
+    "officer_summary": {
+      "active_count": 3,
+      "resigned_count": 3
+    },
+    "etag": "5f92d94f3241e24e75dcf131b538382053aa009d"
+  },
+  {
+    "company_name": "Smith, Knowles and Adams",
+    "company_number": "10000021",
+    "company_status": "active",
+    "type": "plc",
+    "date_of_creation": "2013-11-16",
+    "registered_office_address": {
+      "address_line_1": "66 Bethan port",
+      "locality": "South Gail",
+      "postal_code": "DE3M 1XG",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "52585"
+    ],
+    "jurisdiction": "scotland",
+    "has_been_liquidated": false,
+    "has_charges": true,
+    "has_insolvency_history": false,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2023-10-06",
+      "next_due": "2026-02-05",
+      "next_made_up_to": "2026-04-09",
+      "overdue": false
+    },
+    "accounts": {
+      "next_due": "2025-07-22",
+      "next_accounts": {
+        "period_start_on": "2024-11-13",
+        "period_end_on": "2025-06-02",
+        "due_on": "2027-03-12"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-07-13"
+      },
+      "overdue": true
+    },
+    "officer_summary": {
+      "active_count": 3,
+      "resigned_count": 0
+    },
+    "etag": "e5a9e8ed5159d12ec5cf10b4a9713494ca388ded"
+  },
+  {
+    "company_name": "Holt PLC",
+    "company_number": "10000022",
+    "company_status": "liquidation",
+    "type": "plc",
+    "date_of_creation": "1995-07-20",
+    "registered_office_address": {
+      "address_line_1": "Flat 32m\nSmith terrace",
+      "locality": "Julieberg",
+      "postal_code": "E0E 3SS",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "61531"
+    ],
+    "jurisdiction": "england-wales",
+    "has_been_liquidated": true,
+    "has_charges": false,
+    "has_insolvency_history": true,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2024-01-13",
+      "next_due": "2026-02-16",
+      "next_made_up_to": "2026-04-23",
+      "overdue": false
+    },
+    "accounts": {
+      "next_due": "2026-04-25",
+      "next_accounts": {
+        "period_start_on": "2025-03-25",
+        "period_end_on": "2025-10-19",
+        "due_on": "2026-12-03"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2024-04-09"
+      },
+      "overdue": true
+    },
+    "officer_summary": {
+      "active_count": 5,
+      "resigned_count": 3
+    },
+    "etag": "6bec3bf91fbe6ebc5a90e462a55086ec14ae989d"
+  },
+  {
+    "company_name": "Wright Group",
+    "company_number": "10000023",
+    "company_status": "liquidation",
+    "type": "plc",
+    "date_of_creation": "2020-06-11",
+    "registered_office_address": {
+      "address_line_1": "4 Dale course",
+      "locality": "Port Colintown",
+      "postal_code": "OX7P 6HQ",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "80201"
+    ],
+    "jurisdiction": "scotland",
+    "has_been_liquidated": false,
+    "has_charges": false,
+    "has_insolvency_history": true,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2024-02-13",
+      "next_due": "2025-06-06",
+      "next_made_up_to": "2025-06-10",
+      "overdue": false
+    },
+    "accounts": {
+      "next_due": "2025-12-03",
+      "next_accounts": {
+        "period_start_on": "2025-03-14",
+        "period_end_on": "2025-10-30",
+        "due_on": "2027-01-29"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-08-22"
+      },
+      "overdue": true
+    },
+    "officer_summary": {
+      "active_count": 5,
+      "resigned_count": 2
+    },
+    "etag": "ffaf284a5ec5478cbd4e0192bf7143ca86e4fb60"
+  },
+  {
+    "company_name": "Begum-Houghton",
+    "company_number": "10000024",
+    "company_status": "dissolved",
+    "type": "ltd",
+    "date_of_creation": "2021-08-10",
+    "registered_office_address": {
+      "address_line_1": "Studio 5\nHollie squares",
+      "locality": "Murrayborough",
+      "postal_code": "KT9 0TL",
+      "country": "United Kingdom"
+    },
+    "sic_codes": [
+      "58741"
+    ],
+    "jurisdiction": "england-wales",
+    "has_been_liquidated": false,
+    "has_charges": false,
+    "has_insolvency_history": true,
+    "undeliverable_registered_office_address": false,
+    "confirmation_statement": {
+      "last_made_up_to": "2024-03-28",
+      "next_due": "2026-04-17",
+      "next_made_up_to": "2026-03-16",
+      "overdue": false
+    },
+    "accounts": {
+      "next_due": "2026-02-26",
+      "next_accounts": {
+        "period_start_on": "2024-07-23",
+        "period_end_on": "2025-11-26",
+        "due_on": "2027-03-08"
+      },
+      "last_accounts": {
+        "type": "full",
+        "made_up_to": "2023-10-21"
+      },
+      "overdue": false
+    },
+    "officer_summary": {
+      "active_count": 4,
+      "resigned_count": 1
+    },
+    "etag": "5c0d24c99688651ec71e067958001fcf88026063"
+  }
+]
