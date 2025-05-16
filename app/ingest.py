@@ -1,6 +1,6 @@
 import json
 from pymongo import MongoClient
-from app.config import MONGO_URI, DB_NAME, COLLECTION_NAME
+from config import MONGO_URI, DB_NAME, COLLECTION_NAME
 
 def flatten_company(company):
     flat = {
@@ -35,6 +35,6 @@ def load_and_insert():
             )
 
 
-# if __name__ == "__main__":
-#     load_and_insert()
-#     print("Data ingestion completed.")
+if __name__ == "__main__":
+    load_and_insert()
+    print("Data ingestion completed.")

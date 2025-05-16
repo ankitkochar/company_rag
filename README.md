@@ -62,7 +62,7 @@ COLLECTION_NAME=companies
 ### 4. Ingest mock company data into MongoDB
 
 ```bash
-python ingest.py
+python app\ingest.py
 ```
 
 ### 5. Generate and index embeddings into FAISS
